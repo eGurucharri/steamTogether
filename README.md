@@ -1,6 +1,9 @@
 Really simple. For using you need:
 
     pip install requests pandas openpyxl
+Or just:
+
+    pip install -r requirements.txt
 
 
 Then you insert your API key in:
